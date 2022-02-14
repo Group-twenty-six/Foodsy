@@ -61,7 +61,7 @@ class _UserState extends State<User> {
               const Padding(
                 padding: EdgeInsets.all(20),
                 child: Text(
-                  "Welcome to foodsy",
+                  "Welcome to Foodsy",
                   style: TextStyle(
                     fontSize: 19,
                     fontWeight: FontWeight.w400,
