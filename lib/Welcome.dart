@@ -62,7 +62,7 @@ class _WelcomeState extends State<Welcome> {
   List<double> drinkPrices = [4000, 3000, 3500, 5000, 5000, 4500];
   List<double> prices = [
     4000,
-    3000,
+    7000,
     3500,
     5000,
     5000,
