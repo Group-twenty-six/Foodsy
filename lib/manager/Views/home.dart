@@ -25,7 +25,7 @@ class _HomeState extends State<Home> {
       length: 2,
       child: Scaffold(
         appBar: AppBar(
-          title: const Text("copy board"),
+          title: const Text("Dashboard"),
           bottom: const TabBar(
             tabs: [
               Tab(
