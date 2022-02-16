@@ -32,7 +32,7 @@ class _CartsState extends State<Carts> {
         trailing: Chip(
           avatar: IconButton(
             onPressed: () {
-              // print('clicked');
+             
               setState(() {
                 // addCart.removeAt(widget.id);
               });
